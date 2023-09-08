@@ -1,4 +1,4 @@
-# Differential Equation Discretization Exercise
+# Differential Equation 
 
 ## Overview
 This project aims to discretize a differential equation with variable coefficients, \( \frac{d}{dx}(a(x)u'(x)) = f(x) \), under both Dirichlet and Neumann boundary conditions. The exercise is divided into multiple steps, including discretization of the domain, formulation of a discretization scheme, and accuracy testing using Matlab.
